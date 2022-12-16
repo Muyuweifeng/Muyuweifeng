@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @Muyuweifeng
-- 👀 I’m interested in php
-- 🌱 I’m currently learning php
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 Muyuweifeng/Muyuweifeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
